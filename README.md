@@ -56,7 +56,6 @@ Para habilitar os campos contidos no documento `SEI_196492454_Formulario_para_So
    - [ ] **CA 3.1:** Fez exame preventivo anteriormente?
                               **Tipo do Campo:** `Radio Button` (Seleção Binária)
                               **Valores:** `Sim / Não / Não Sabe`
-                              
                               Se o valor for **Sim**:
                               Mostrar um `campo de texto livre` para informar a data do exame.
      - [ ] **CA 3.2:** Usa DIU?
