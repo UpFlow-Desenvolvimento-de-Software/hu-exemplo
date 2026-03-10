@@ -53,14 +53,14 @@ Para habilitar os campos contidos no documento `SEI_196492454_Formulario_para_So
    - [ ] **CA 1.3:** O botão LIMPAR servirá para efetuar a remoção dos dados preenchidos no formulário.
 - [ ] **CA 2:** Os dados capturados devem ser suficientes para preencher os requisitos do GAL.
 - [ ] **CA 3:** Os campos do formulário terá a seguinte estrutura:
-   - [ ] **CA 3.1:** Fez exame preventivo anteriormente?
-                              **Tipo do Campo:** `Radio Button` (Seleção Binária)
-                              **Valores:** `Sim / Não / Não Sabe`
-                              Se o valor for **Sim**:
-                              Mostrar um `campo de texto livre` para informar a data do exame.
-     - [ ] **CA 3.2:** Usa DIU?
-            **Tipo do Campo:** `Radio Button` (Seleção Binária)
-            **Valores:** `Sim / Não / Não Sabe`
+   - [ ] **CA 3.1:** Fez exame preventivo anteriormente?<br>
+         **Tipo do Campo:** `Radio Button` (Seleção Binária)<br>
+         **Valores:** `Sim / Não / Não Sabe`<br><br>
+         Se o valor for **Sim**:<br>
+         Mostrar um `campo de texto livre` para informar a data do exame.<br>
+- [ ] **CA 3.2:** Usa DIU?<br>
+      **Tipo do Campo:** `Radio Button` (Seleção Binária)<br>
+      **Valores:** `Sim / Não / Não Sabe`<br>
 
 
 ### 8. Legislação
