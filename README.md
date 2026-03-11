@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/UpFlow-Desenvolvimento-de-Software/hu-exemplo/blob/main/cabecalhp-hu-ses-df-upflow.png)
+![cabecalho-hus-upflow](https://github.com/UpFlow-Desenvolvimento-de-Software/hu-exemplo/blob/main/cabecalhp-hu-ses-df-upflow.png)
 
 ### 1. Descrição do Problema
 É necessário acrescentar um novo formulário para registros de informações sobre o exame de **HPV**, porém, esta funcionalidade deveria ser implementada no conjunto de features do **e-SUS**, porém, como o processo de solicitação de desenvolvimento de recurso neste projeto necessita de um processo burocrático e que demoraria mais tempo, a Gerência de Desenvolvimento da **SES-DF** recebeu a missão de implementar este formulário de forma rápida e que não necessitasse salvar estes dados em nenhum stored ou base de dados, apenas preencher este formulário para que estes dados possam ser replicados para o **GAL** e resolver a questão dos dados do exame de coleta de material do colo do útero para **HPV** e guardar estes dados do paciente do sistema público.
